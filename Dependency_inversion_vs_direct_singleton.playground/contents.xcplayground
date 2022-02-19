@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='00 Cover_page'/>
+        <page name='01-01 (Singleton) Normal_way_of_creating_an_instance_of_a_class'/>
+        <page name='01-02 (Singleton) Creating_only_one_instance_of_a_class_with_singleton_pattern'/>
+        <page name='01-03 (Singleton) Creating_only_one_instance_of_a_class_with_singleton_pattern-Swifty'/>
+        <page name='01-04 (Singleton) Subclass_a_Singleton_class'/>
+        <page name='01-05 (Singleton) Extend_a_Singleton_class'/>
+        <page name='01-06 (Singleton) URLSession.shared'/>
+        <page name='01-07 (Singleton) How_can_we_test_code_that_uses_a_Singleton?'/>
+        <page name='02-01 (Stage 0) How_can_we_replace_the_ApiClient_with_a_mocked_one?'/>
+        <page name='02-02 (Stage 0) Make_the_instance_property_settable'/>
+        <page name='02-03 (Stage 0) Immutable_global_state'/>
+        <page name='02-04 (Stage 0) Added_functionality–loadFeed(...)'/>
+        <page name='03-01 (Stage 1) A_solution_to_this_problem_is_to_use extensions'/>
+        <page name='04-01 (Stage 4) Implementation_of_adapters'/>
+    </pages>
+</playground>
